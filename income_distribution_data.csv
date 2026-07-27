@@ -1,0 +1,135 @@
+Geography,Name,Level,year,"<= $20,000","$20,001 -
+$40,000","$40,001 -
+$60,000","$60,001 -
+$100,000","$100,001 -
+$250,000","> $250,000"
+NYC,New York City,City,2000,14.9%,14.1%,12.8%,21.0%,29.0%,8.2%
+NYC,New York City,City,2020-2024,14.0%,13.1%,11.3%,18.5%,30.8%,12.4%
+BX,The Bronx,Boro,2000,22.3%,16.7%,14.9%,21.0%,22.2%,2.8%
+BX,The Bronx,Boro,2020-2024,23.4%,18.3%,14.9%,19.2%,20.9%,3.4%
+BK,Brooklyn,Boro,2000,18.2%,15.9%,13.9%,20.9%,26.0%,5.1%
+BK,Brooklyn,Boro,2020-2024,14.0%,13.1%,11.4%,18.8%,30.9%,11.9%
+MN,Manhattan,Boro,2000,13.2%,11.9%,10.5%,18.3%,28.6%,17.6%
+MN,Manhattan,Boro,2020-2024,13.1%,10.6%,8.6%,14.4%,30.1%,23.2%
+QN,Queens,Boro,2000,9.7%,13.5%,13.0%,23.8%,34.2%,5.8%
+QN,Queens,Boro,2020-2024,9.9%,12.5%,11.8%,21.2%,35.8%,8.9%
+SI,Staten Island,Boro,2000,8.1%,10.1%,9.9%,20.6%,41.5%,9.8%
+SI,Staten Island,Boro,2020-2024,9.0%,10.9%,9.6%,19.7%,39.5%,11.3%
+BX 01,Mott Haven/Melrose,Community District,2000,34.9%,21.3%,14.5%,16.4%,11.5%,1.4%
+BX 01,Mott Haven/Melrose,Community District,2020-2024,32.5%,23.3%,14.9%,13.3%,14.4%,1.6%
+BX 02,Hunts Point/Longwood,Community District,2000,34.9%,21.3%,14.5%,16.4%,11.5%,1.4%
+BX 02,Hunts Point/Longwood,Community District,2020-2024,32.5%,23.3%,14.9%,13.3%,14.4%,1.6%
+BX 03,Morrisania/Crotona,Community District,2000,34.1%,20.7%,16.1%,15.7%,12.4%,1.0%
+BX 03,Morrisania/Crotona,Community District,2020-2024,32.8%,20.7%,16.1%,18.6%,10.8%,1.0%
+BX 04,Highbridge/Concourse,Community District,2000,28.7%,18.1%,16.7%,21.2%,13.8%,1.4%
+BX 04,Highbridge/Concourse,Community District,2020-2024,26.0%,18.0%,16.9%,20.2%,17.0%,1.9%
+BX 05,Fordham/University Heights,Community District,2000,30.7%,19.2%,14.0%,20.7%,13.9%,1.5%
+BX 05,Fordham/University Heights,Community District,2020-2024,25.7%,19.3%,14.0%,21.7%,18.1%,1.3%
+BX 06,Belmont/East Tremont,Community District,2000,34.1%,20.7%,16.1%,15.7%,12.4%,1.0%
+BX 06,Belmont/East Tremont,Community District,2020-2024,32.8%,20.7%,16.1%,18.6%,10.8%,1.0%
+BX 07,Kingsbridge Heights/Bedford,Community District,2000,22.5%,18.1%,15.9%,22.6%,19.3%,1.7%
+BX 07,Kingsbridge Heights/Bedford,Community District,2020-2024,28.4%,20.6%,18.0%,15.6%,15.6%,1.8%
+BX 08,Riverdale/Fieldston,Community District,2000,12.4%,13.3%,11.5%,23.5%,31.2%,8.1%
+BX 08,Riverdale/Fieldston,Community District,2020-2024,12.9%,12.4%,12.5%,20.4%,33.1%,8.7%
+BX 09,Parkchester/Soundview,Community District,2000,21.5%,16.2%,15.8%,22.2%,22.5%,1.7%
+BX 09,Parkchester/Soundview,Community District,2020-2024,21.8%,19.8%,15.4%,19.7%,19.9%,3.3%
+BX 10,Throgs Neck/Co-op City,Community District,2000,11.4%,12.5%,14.2%,21.7%,36.4%,3.8%
+BX 10,Throgs Neck/Co-op City,Community District,2020-2024,14.4%,15.2%,13.8%,19.6%,31.4%,5.7%
+BX 11,Morris Park/Bronxdale,Community District,2000,15.5%,14.7%,15.6%,22.2%,28.9%,3.2%
+BX 11,Morris Park/Bronxdale,Community District,2020-2024,16.5%,16.3%,14.2%,21.3%,27.5%,4.2%
+BX 12,Williamsbridge/Baychester,Community District,2000,14.5%,13.8%,14.6%,23.4%,29.5%,4.2%
+BX 12,Williamsbridge/Baychester,Community District,2020-2024,17.7%,14.8%,12.6%,21.7%,27.3%,5.8%
+BK 01,Greenpoint/Williamsburg,Community District,2000,21.3%,20.8%,14.0%,20.7%,21.4%,1.9%
+BK 01,Greenpoint/Williamsburg,Community District,2020-2024,11.2%,10.9%,9.2%,15.3%,33.8%,19.7%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2000,15.2%,11.3%,12.3%,21.0%,28.9%,11.2%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2020-2024,8.2%,7.8%,6.5%,13.9%,34.6%,29.1%
+BK 03,Bedford Stuyvesant,Community District,2000,30.4%,17.1%,14.2%,18.5%,17.4%,2.3%
+BK 03,Bedford Stuyvesant,Community District,2020-2024,16.2%,13.1%,9.8%,17.4%,31.4%,12.1%
+BK 04,Bushwick,Community District,2000,25.2%,22.6%,15.8%,19.1%,15.8%,1.4%
+BK 04,Bushwick,Community District,2020-2024,15.4%,11.6%,8.1%,19.6%,36.6%,8.6%
+BK 05,East New York/Starrett City,Community District,2000,23.6%,17.1%,16.0%,20.3%,20.7%,2.2%
+BK 05,East New York/Starrett City,Community District,2020-2024,19.8%,17.0%,14.1%,23.2%,22.9%,3.0%
+BK 06,Park Slope/Carroll Gardens,Community District,2000,11.1%,8.1%,10.2%,20.6%,35.8%,14.3%
+BK 06,Park Slope/Carroll Gardens,Community District,2020-2024,7.8%,5.4%,5.6%,11.5%,36.1%,33.6%
+BK 07,Sunset Park,Community District,2000,15.5%,18.3%,14.5%,23.4%,24.7%,3.7%
+BK 07,Sunset Park,Community District,2020-2024,10.9%,13.4%,10.9%,19.5%,32.0%,13.2%
+BK 08,Crown Heights/Prospect Heights,Community District,2000,20.6%,16.8%,15.3%,21.8%,22.0%,3.5%
+BK 08,Crown Heights/Prospect Heights,Community District,2020-2024,14.3%,10.5%,11.1%,17.2%,32.9%,14.0%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2000,17.5%,15.8%,17.9%,21.9%,23.7%,3.2%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2020-2024,15.4%,12.4%,12.7%,18.8%,31.8%,8.9%
+BK 10,Bay Ridge/Dyker Heights,Community District,2000,10.4%,13.9%,12.6%,22.7%,31.9%,8.6%
+BK 10,Bay Ridge/Dyker Heights,Community District,2020-2024,9.6%,13.3%,10.5%,20.7%,34.0%,11.8%
+BK 11,Bensonhurst,Community District,2000,18.0%,16.7%,12.8%,21.6%,26.9%,4.0%
+BK 11,Bensonhurst,Community District,2020-2024,14.4%,15.1%,13.6%,22.0%,29.0%,5.9%
+BK 12,Borough Park,Community District,2000,18.8%,17.4%,13.7%,19.6%,25.8%,4.7%
+BK 12,Borough Park,Community District,2020-2024,12.6%,17.2%,14.2%,20.2%,28.3%,7.5%
+BK 13,Coney Island,Community District,2000,26.8%,19.2%,13.1%,18.9%,19.2%,2.8%
+BK 13,Coney Island,Community District,2020-2024,24.1%,16.4%,16.0%,17.2%,21.3%,4.9%
+BK 14,Flatbush/Midwood,Community District,2000,17.4%,14.9%,14.0%,22.4%,26.2%,5.3%
+BK 14,Flatbush/Midwood,Community District,2020-2024,12.8%,12.9%,11.6%,20.8%,32.2%,9.6%
+BK 15,Sheepshead Bay,Community District,2000,15.3%,15.1%,12.9%,19.4%,30.5%,6.8%
+BK 15,Sheepshead Bay,Community District,2020-2024,14.3%,14.2%,13.7%,19.9%,29.7%,8.2%
+BK 16,Brownsville,Community District,2000,30.4%,19.4%,16.2%,17.9%,14.6%,1.4%
+BK 16,Brownsville,Community District,2020-2024,26.2%,17.7%,14.6%,18.0%,21.1%,2.4%
+BK 17,East Flatbush,Community District,2000,12.1%,16.7%,16.8%,22.5%,28.3%,3.6%
+BK 17,East Flatbush,Community District,2020-2024,13.9%,14.7%,12.9%,23.5%,29.9%,5.1%
+BK 18,Flatlands/Canarsie,Community District,2000,9.6%,10.6%,11.5%,21.6%,39.7%,7.0%
+BK 18,Flatlands/Canarsie,Community District,2020-2024,9.8%,13.3%,12.0%,20.0%,35.1%,9.9%
+MN 01,Financial District,Community District,2000,7.3%,8.2%,9.0%,16.2%,34.2%,25.1%
+MN 01,Financial District,Community District,2020-2024,6.2%,4.9%,5.1%,11.4%,32.8%,39.7%
+MN 02,Greenwich Village/Soho,Community District,2000,7.3%,8.2%,9.0%,16.2%,34.2%,25.1%
+MN 02,Greenwich Village/Soho,Community District,2020-2024,6.2%,4.9%,5.1%,11.4%,32.8%,39.7%
+MN 03,Lower East Side/Chinatown,Community District,2000,20.5%,20.3%,13.1%,21.0%,19.7%,5.5%
+MN 03,Lower East Side/Chinatown,Community District,2020-2024,22.9%,14.5%,11.2%,13.7%,25.5%,12.2%
+MN 04,Clinton/Chelsea,Community District,2000,10.2%,10.6%,9.1%,18.3%,32.8%,19.0%
+MN 04,Clinton/Chelsea,Community District,2020-2024,9.3%,9.9%,9.2%,13.9%,32.5%,25.2%
+MN 05,Midtown,Community District,2000,10.2%,10.6%,9.1%,18.3%,32.8%,19.0%
+MN 05,Midtown,Community District,2020-2024,9.3%,9.9%,9.2%,13.9%,32.5%,25.2%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2000,5.8%,6.8%,8.6%,17.5%,37.9%,23.4%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2020-2024,8.3%,6.8%,5.4%,12.8%,36.5%,30.1%
+MN 07,Upper West Side,Community District,2000,8.4%,8.3%,8.5%,16.8%,32.3%,25.8%
+MN 07,Upper West Side,Community District,2020-2024,9.4%,7.3%,7.1%,13.0%,31.2%,32.0%
+MN 08,Upper East Side,Community District,2000,5.5%,6.6%,6.9%,15.9%,34.1%,31.1%
+MN 08,Upper East Side,Community District,2020-2024,6.3%,6.6%,6.7%,13.5%,32.6%,34.3%
+MN 09,Morningside Heights/Hamilton,Community District,2000,22.0%,16.1%,13.1%,20.2%,22.2%,6.4%
+MN 09,Morningside Heights/Hamilton,Community District,2020-2024,18.1%,16.3%,12.4%,18.0%,25.2%,9.9%
+MN 10,Central Harlem,Community District,2000,30.1%,19.4%,15.6%,17.7%,14.9%,2.3%
+MN 10,Central Harlem,Community District,2020-2024,20.9%,16.8%,11.3%,16.7%,25.2%,9.0%
+MN 11,East Harlem,Community District,2000,29.3%,18.7%,14.5%,19.0%,15.0%,3.5%
+MN 11,East Harlem,Community District,2020-2024,29.8%,17.4%,12.5%,14.5%,19.1%,6.6%
+MN 12,Washington Heights/Inwood,Community District,2000,19.3%,17.8%,15.2%,23.1%,21.6%,3.1%
+MN 12,Washington Heights/Inwood,Community District,2020-2024,16.1%,16.5%,12.2%,20.0%,29.5%,5.7%
+QN 01,Astoria,Community District,2000,13.6%,15.5%,14.6%,23.3%,29.4%,3.6%
+QN 01,Astoria,Community District,2020-2024,10.8%,11.3%,10.3%,21.1%,37.2%,9.3%
+QN 02,Woodside/Sunnyside,Community District,2000,8.8%,15.7%,13.8%,27.2%,30.7%,3.8%
+QN 02,Woodside/Sunnyside,Community District,2020-2024,7.0%,11.9%,10.5%,21.9%,35.1%,13.7%
+QN 03,Jackson Heights,Community District,2000,10.5%,16.7%,14.0%,25.4%,29.8%,3.7%
+QN 03,Jackson Heights,Community District,2020-2024,10.1%,13.5%,13.8%,24.2%,31.8%,6.8%
+QN 04,Elmhurst/Corona,Community District,2000,12.0%,15.7%,15.8%,24.3%,29.0%,3.3%
+QN 04,Elmhurst/Corona,Community District,2020-2024,10.6%,16.9%,15.0%,24.8%,27.7%,4.9%
+QN 05,Ridgewood/Maspeth,Community District,2000,10.0%,14.6%,13.8%,24.6%,32.7%,4.2%
+QN 05,Ridgewood/Maspeth,Community District,2020-2024,7.4%,11.4%,12.1%,22.5%,37.9%,8.8%
+QN 06,Rego Park/Forest Hills,Community District,2000,9.9%,12.9%,10.7%,21.3%,36.0%,9.2%
+QN 06,Rego Park/Forest Hills,Community District,2020-2024,9.3%,10.4%,9.1%,19.3%,39.3%,12.5%
+QN 07,Flushing/Whitestone,Community District,2000,8.3%,13.7%,12.9%,23.5%,34.9%,6.6%
+QN 07,Flushing/Whitestone,Community District,2020-2024,12.0%,15.6%,12.3%,20.4%,32.2%,7.5%
+QN 08,Hillcrest/Fresh Meadows,Community District,2000,7.9%,11.1%,10.7%,25.0%,36.4%,9.0%
+QN 08,Hillcrest/Fresh Meadows,Community District,2020-2024,9.8%,13.1%,11.9%,19.9%,37.6%,7.8%
+QN 09,Kew Gardens/Woodhaven,Community District,2000,9.4%,13.6%,13.9%,24.3%,33.9%,4.8%
+QN 09,Kew Gardens/Woodhaven,Community District,2020-2024,8.4%,12.1%,11.6%,22.7%,36.3%,8.8%
+QN 10,South Ozone Park/Howard Beach,Community District,2000,6.8%,12.8%,12.3%,23.0%,39.6%,5.5%
+QN 10,South Ozone Park/Howard Beach,Community District,2020-2024,8.4%,11.2%,12.4%,17.3%,42.8%,7.9%
+QN 11,Bayside/Little Neck,Community District,2000,5.4%,10.4%,10.3%,20.4%,42.8%,10.8%
+QN 11,Bayside/Little Neck,Community District,2020-2024,8.0%,9.5%,10.2%,19.6%,41.2%,11.6%
+QN 12,Jamaica/Hollis,Community District,2000,10.7%,13.3%,15.1%,24.5%,32.3%,4.1%
+QN 12,Jamaica/Hollis,Community District,2020-2024,11.7%,12.8%,13.5%,22.6%,32.8%,6.6%
+QN 13,Queens Village,Community District,2000,4.7%,8.7%,10.5%,22.2%,45.9%,7.9%
+QN 13,Queens Village,Community District,2020-2024,6.3%,9.3%,9.5%,20.3%,43.7%,11.0%
+QN 14,Rockaway/Broad Channel,Community District,2000,19.4%,13.9%,12.6%,24.5%,25.3%,4.3%
+QN 14,Rockaway/Broad Channel,Community District,2020-2024,18.0%,14.4%,12.9%,18.0%,28.1%,8.6%
+SI 01,St. George/Stapleton,Community District,2000,11.9%,12.4%,11.2%,21.7%,35.7%,7.0%
+SI 01,St. George/Stapleton,Community District,2020-2024,11.5%,11.7%,10.8%,20.2%,36.5%,9.3%
+SI 02,South Beach/Willowbrook,Community District,2000,7.6%,9.9%,9.8%,20.3%,41.7%,10.7%
+SI 02,South Beach/Willowbrook,Community District,2020-2024,8.0%,12.0%,9.8%,21.5%,36.8%,11.9%
+SI 03,Tottenville/Great Kills,Community District,2000,4.6%,7.8%,8.6%,19.8%,47.4%,11.9%
+SI 03,Tottenville/Great Kills,Community District,2020-2024,7.2%,9.1%,8.2%,17.6%,44.9%,12.9%

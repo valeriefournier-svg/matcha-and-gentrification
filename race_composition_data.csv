@@ -1,0 +1,521 @@
+Geography,Name,Level,Year,Race/Ethnicity,Percent
+NYC,New York City,City,2024,pop_race_asian_pct,15.1%
+NYC,New York City,City,2024,pop_race_black_pct,20.0%
+NYC,New York City,City,2024,pop_race_hisp_pct,28.7%
+NYC,New York City,City,2024,pop_race_white_pct,30.7%
+NYC,New York City,City,2000,pop_race_asian_pct,9.7%
+NYC,New York City,City,2000,pop_race_black_pct,24.5%
+NYC,New York City,City,2000,pop_race_hisp_pct,27.0%
+NYC,New York City,City,2000,pop_race_white_pct,35.0%
+BX,The Bronx,Boro,2024,pop_race_asian_pct,4.3%
+BX,The Bronx,Boro,2024,pop_race_black_pct,28.4%
+BX,The Bronx,Boro,2024,pop_race_hisp_pct,55.4%
+BX,The Bronx,Boro,2024,pop_race_white_pct,8.6%
+BX,The Bronx,Boro,2000,pop_race_asian_pct,2.9%
+BX,The Bronx,Boro,2000,pop_race_black_pct,30.9%
+BX,The Bronx,Boro,2000,pop_race_hisp_pct,48.7%
+BX,The Bronx,Boro,2000,pop_race_white_pct,14.5%
+BK,Brooklyn,Boro,2024,pop_race_asian_pct,12.6%
+BK,Brooklyn,Boro,2024,pop_race_black_pct,25.8%
+BK,Brooklyn,Boro,2024,pop_race_hisp_pct,19.1%
+BK,Brooklyn,Boro,2024,pop_race_white_pct,36.3%
+BK,Brooklyn,Boro,2000,pop_race_asian_pct,7.5%
+BK,Brooklyn,Boro,2000,pop_race_black_pct,34.4%
+BK,Brooklyn,Boro,2000,pop_race_hisp_pct,19.8%
+BK,Brooklyn,Boro,2000,pop_race_white_pct,34.7%
+MN,Manhattan,Boro,2024,pop_race_asian_pct,12.9%
+MN,Manhattan,Boro,2024,pop_race_black_pct,12.6%
+MN,Manhattan,Boro,2024,pop_race_hisp_pct,24.5%
+MN,Manhattan,Boro,2024,pop_race_white_pct,44.7%
+MN,Manhattan,Boro,2000,pop_race_asian_pct,9.4%
+MN,Manhattan,Boro,2000,pop_race_black_pct,15.2%
+MN,Manhattan,Boro,2000,pop_race_hisp_pct,27.0%
+MN,Manhattan,Boro,2000,pop_race_white_pct,46.0%
+QN,Queens,Boro,2024,pop_race_asian_pct,26.3%
+QN,Queens,Boro,2024,pop_race_black_pct,16.3%
+QN,Queens,Boro,2024,pop_race_hisp_pct,28.5%
+QN,Queens,Boro,2024,pop_race_white_pct,22.5%
+QN,Queens,Boro,2000,pop_race_asian_pct,17.4%
+QN,Queens,Boro,2000,pop_race_black_pct,19.2%
+QN,Queens,Boro,2000,pop_race_hisp_pct,25.0%
+QN,Queens,Boro,2000,pop_race_white_pct,32.7%
+SI,Staten Island,Boro,2024,pop_race_asian_pct,14.3%
+SI,Staten Island,Boro,2024,pop_race_black_pct,8.0%
+SI,Staten Island,Boro,2024,pop_race_hisp_pct,19.6%
+SI,Staten Island,Boro,2024,pop_race_white_pct,53.9%
+SI,Staten Island,Boro,2000,pop_race_asian_pct,5.6%
+SI,Staten Island,Boro,2000,pop_race_black_pct,8.9%
+SI,Staten Island,Boro,2000,pop_race_hisp_pct,12.1%
+SI,Staten Island,Boro,2000,pop_race_white_pct,71.3%
+BX 01,Mott Haven/Melrose,Community District,2024,pop_race_asian_pct,0.7%
+BX 01,Mott Haven/Melrose,Community District,2024,pop_race_black_pct,23.3%
+BX 01,Mott Haven/Melrose,Community District,2024,pop_race_hisp_pct,71.9%
+BX 01,Mott Haven/Melrose,Community District,2024,pop_race_white_pct,1.6%
+BX 01,Mott Haven/Melrose,Community District,2000,pop_race_asian_pct,0.4%
+BX 01,Mott Haven/Melrose,Community District,2000,pop_race_black_pct,24.5%
+BX 01,Mott Haven/Melrose,Community District,2000,pop_race_hisp_pct,72.5%
+BX 01,Mott Haven/Melrose,Community District,2000,pop_race_white_pct,1.3%
+BX 02,Hunts Point/Longwood,Community District,2024,pop_race_asian_pct,0.7%
+BX 02,Hunts Point/Longwood,Community District,2024,pop_race_black_pct,23.3%
+BX 02,Hunts Point/Longwood,Community District,2024,pop_race_hisp_pct,71.9%
+BX 02,Hunts Point/Longwood,Community District,2024,pop_race_white_pct,1.6%
+BX 02,Hunts Point/Longwood,Community District,2000,pop_race_asian_pct,0.4%
+BX 02,Hunts Point/Longwood,Community District,2000,pop_race_black_pct,24.5%
+BX 02,Hunts Point/Longwood,Community District,2000,pop_race_hisp_pct,72.5%
+BX 02,Hunts Point/Longwood,Community District,2000,pop_race_white_pct,1.3%
+BX 03,Morrisania/Crotona,Community District,2024,pop_race_asian_pct,0.8%
+BX 03,Morrisania/Crotona,Community District,2024,pop_race_black_pct,34.0%
+BX 03,Morrisania/Crotona,Community District,2024,pop_race_hisp_pct,59.1%
+BX 03,Morrisania/Crotona,Community District,2024,pop_race_white_pct,4.1%
+BX 03,Morrisania/Crotona,Community District,2000,pop_race_asian_pct,0.8%
+BX 03,Morrisania/Crotona,Community District,2000,pop_race_black_pct,34.5%
+BX 03,Morrisania/Crotona,Community District,2000,pop_race_hisp_pct,57.3%
+BX 03,Morrisania/Crotona,Community District,2000,pop_race_white_pct,5.4%
+BX 04,Highbridge/Concourse,Community District,2024,pop_race_asian_pct,0.9%
+BX 04,Highbridge/Concourse,Community District,2024,pop_race_black_pct,30.2%
+BX 04,Highbridge/Concourse,Community District,2024,pop_race_hisp_pct,63.6%
+BX 04,Highbridge/Concourse,Community District,2024,pop_race_white_pct,3.3%
+BX 04,Highbridge/Concourse,Community District,2000,pop_race_asian_pct,1.2%
+BX 04,Highbridge/Concourse,Community District,2000,pop_race_black_pct,36.5%
+BX 04,Highbridge/Concourse,Community District,2000,pop_race_hisp_pct,58.2%
+BX 04,Highbridge/Concourse,Community District,2000,pop_race_white_pct,1.5%
+BX 05,Fordham/University Heights,Community District,2024,pop_race_asian_pct,3.9%
+BX 05,Fordham/University Heights,Community District,2024,pop_race_black_pct,17.2%
+BX 05,Fordham/University Heights,Community District,2024,pop_race_hisp_pct,71.3%
+BX 05,Fordham/University Heights,Community District,2024,pop_race_white_pct,5.3%
+BX 05,Fordham/University Heights,Community District,2000,pop_race_asian_pct,1.6%
+BX 05,Fordham/University Heights,Community District,2000,pop_race_black_pct,32.5%
+BX 05,Fordham/University Heights,Community District,2000,pop_race_hisp_pct,61.7%
+BX 05,Fordham/University Heights,Community District,2000,pop_race_white_pct,1.4%
+BX 06,Belmont/East Tremont,Community District,2024,pop_race_asian_pct,0.8%
+BX 06,Belmont/East Tremont,Community District,2024,pop_race_black_pct,34.0%
+BX 06,Belmont/East Tremont,Community District,2024,pop_race_hisp_pct,59.1%
+BX 06,Belmont/East Tremont,Community District,2024,pop_race_white_pct,4.1%
+BX 06,Belmont/East Tremont,Community District,2000,pop_race_asian_pct,0.8%
+BX 06,Belmont/East Tremont,Community District,2000,pop_race_black_pct,34.5%
+BX 06,Belmont/East Tremont,Community District,2000,pop_race_hisp_pct,57.3%
+BX 06,Belmont/East Tremont,Community District,2000,pop_race_white_pct,5.4%
+BX 07,Kingsbridge Heights/Bedford,Community District,2024,pop_race_asian_pct,0.4%
+BX 07,Kingsbridge Heights/Bedford,Community District,2024,pop_race_black_pct,29.7%
+BX 07,Kingsbridge Heights/Bedford,Community District,2024,pop_race_hisp_pct,65.5%
+BX 07,Kingsbridge Heights/Bedford,Community District,2024,pop_race_white_pct,1.1%
+BX 07,Kingsbridge Heights/Bedford,Community District,2000,pop_race_asian_pct,6.6%
+BX 07,Kingsbridge Heights/Bedford,Community District,2000,pop_race_black_pct,19.2%
+BX 07,Kingsbridge Heights/Bedford,Community District,2000,pop_race_hisp_pct,59.7%
+BX 07,Kingsbridge Heights/Bedford,Community District,2000,pop_race_white_pct,10.8%
+BX 08,Riverdale/Fieldston,Community District,2024,pop_race_asian_pct,4.5%
+BX 08,Riverdale/Fieldston,Community District,2024,pop_race_black_pct,14.6%
+BX 08,Riverdale/Fieldston,Community District,2024,pop_race_hisp_pct,40.9%
+BX 08,Riverdale/Fieldston,Community District,2024,pop_race_white_pct,35.1%
+BX 08,Riverdale/Fieldston,Community District,2000,pop_race_asian_pct,4.9%
+BX 08,Riverdale/Fieldston,Community District,2000,pop_race_black_pct,13.9%
+BX 08,Riverdale/Fieldston,Community District,2000,pop_race_hisp_pct,38.2%
+BX 08,Riverdale/Fieldston,Community District,2000,pop_race_white_pct,40.3%
+BX 09,Parkchester/Soundview,Community District,2024,pop_race_asian_pct,12.6%
+BX 09,Parkchester/Soundview,Community District,2024,pop_race_black_pct,24.6%
+BX 09,Parkchester/Soundview,Community District,2024,pop_race_hisp_pct,57.0%
+BX 09,Parkchester/Soundview,Community District,2024,pop_race_white_pct,2.9%
+BX 09,Parkchester/Soundview,Community District,2000,pop_race_asian_pct,3.9%
+BX 09,Parkchester/Soundview,Community District,2000,pop_race_black_pct,32.1%
+BX 09,Parkchester/Soundview,Community District,2000,pop_race_hisp_pct,55.2%
+BX 09,Parkchester/Soundview,Community District,2000,pop_race_white_pct,4.9%
+BX 10,Throgs Neck/Co-op City,Community District,2024,pop_race_asian_pct,6.9%
+BX 10,Throgs Neck/Co-op City,Community District,2024,pop_race_black_pct,20.2%
+BX 10,Throgs Neck/Co-op City,Community District,2024,pop_race_hisp_pct,47.4%
+BX 10,Throgs Neck/Co-op City,Community District,2024,pop_race_white_pct,22.5%
+BX 10,Throgs Neck/Co-op City,Community District,2000,pop_race_asian_pct,1.7%
+BX 10,Throgs Neck/Co-op City,Community District,2000,pop_race_black_pct,24.0%
+BX 10,Throgs Neck/Co-op City,Community District,2000,pop_race_hisp_pct,23.4%
+BX 10,Throgs Neck/Co-op City,Community District,2000,pop_race_white_pct,48.9%
+BX 11,Morris Park/Bronxdale,Community District,2024,pop_race_asian_pct,10.5%
+BX 11,Morris Park/Bronxdale,Community District,2024,pop_race_black_pct,22.4%
+BX 11,Morris Park/Bronxdale,Community District,2024,pop_race_hisp_pct,46.8%
+BX 11,Morris Park/Bronxdale,Community District,2024,pop_race_white_pct,16.6%
+BX 11,Morris Park/Bronxdale,Community District,2000,pop_race_asian_pct,6.4%
+BX 11,Morris Park/Bronxdale,Community District,2000,pop_race_black_pct,19.2%
+BX 11,Morris Park/Bronxdale,Community District,2000,pop_race_hisp_pct,34.7%
+BX 11,Morris Park/Bronxdale,Community District,2000,pop_race_white_pct,35.9%
+BX 12,Williamsbridge/Baychester,Community District,2024,pop_race_asian_pct,2.1%
+BX 12,Williamsbridge/Baychester,Community District,2024,pop_race_black_pct,57.7%
+BX 12,Williamsbridge/Baychester,Community District,2024,pop_race_hisp_pct,28.7%
+BX 12,Williamsbridge/Baychester,Community District,2024,pop_race_white_pct,5.5%
+BX 12,Williamsbridge/Baychester,Community District,2000,pop_race_asian_pct,1.9%
+BX 12,Williamsbridge/Baychester,Community District,2000,pop_race_black_pct,66.4%
+BX 12,Williamsbridge/Baychester,Community District,2000,pop_race_hisp_pct,17.6%
+BX 12,Williamsbridge/Baychester,Community District,2000,pop_race_white_pct,10.1%
+BK 01,Greenpoint/Williamsburg,Community District,2024,pop_race_asian_pct,6.6%
+BK 01,Greenpoint/Williamsburg,Community District,2024,pop_race_black_pct,6.9%
+BK 01,Greenpoint/Williamsburg,Community District,2024,pop_race_hisp_pct,20.9%
+BK 01,Greenpoint/Williamsburg,Community District,2024,pop_race_white_pct,59.5%
+BK 01,Greenpoint/Williamsburg,Community District,2000,pop_race_asian_pct,3.9%
+BK 01,Greenpoint/Williamsburg,Community District,2000,pop_race_black_pct,4.0%
+BK 01,Greenpoint/Williamsburg,Community District,2000,pop_race_hisp_pct,34.1%
+BK 01,Greenpoint/Williamsburg,Community District,2000,pop_race_white_pct,52.5%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2024,pop_race_asian_pct,12.4%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2024,pop_race_black_pct,15.6%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2024,pop_race_hisp_pct,14.9%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2024,pop_race_white_pct,49.2%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2000,pop_race_asian_pct,4.2%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2000,pop_race_black_pct,41.8%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2000,pop_race_hisp_pct,19.3%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2000,pop_race_white_pct,31.1%
+BK 03,Bedford Stuyvesant,Community District,2024,pop_race_asian_pct,4.6%
+BK 03,Bedford Stuyvesant,Community District,2024,pop_race_black_pct,38.3%
+BK 03,Bedford Stuyvesant,Community District,2024,pop_race_hisp_pct,18.1%
+BK 03,Bedford Stuyvesant,Community District,2024,pop_race_white_pct,33.4%
+BK 03,Bedford Stuyvesant,Community District,2000,pop_race_asian_pct,0.8%
+BK 03,Bedford Stuyvesant,Community District,2000,pop_race_black_pct,74.9%
+BK 03,Bedford Stuyvesant,Community District,2000,pop_race_hisp_pct,19.0%
+BK 03,Bedford Stuyvesant,Community District,2000,pop_race_white_pct,2.4%
+BK 04,Bushwick,Community District,2024,pop_race_asian_pct,6.2%
+BK 04,Bushwick,Community District,2024,pop_race_black_pct,17.2%
+BK 04,Bushwick,Community District,2024,pop_race_hisp_pct,39.8%
+BK 04,Bushwick,Community District,2024,pop_race_white_pct,31.3%
+BK 04,Bushwick,Community District,2000,pop_race_asian_pct,2.8%
+BK 04,Bushwick,Community District,2000,pop_race_black_pct,23.4%
+BK 04,Bushwick,Community District,2000,pop_race_hisp_pct,67.8%
+BK 04,Bushwick,Community District,2000,pop_race_white_pct,3.1%
+BK 05,East New York/Starrett City,Community District,2024,pop_race_asian_pct,5.1%
+BK 05,East New York/Starrett City,Community District,2024,pop_race_black_pct,48.0%
+BK 05,East New York/Starrett City,Community District,2024,pop_race_hisp_pct,37.8%
+BK 05,East New York/Starrett City,Community District,2024,pop_race_white_pct,3.0%
+BK 05,East New York/Starrett City,Community District,2000,pop_race_asian_pct,3.9%
+BK 05,East New York/Starrett City,Community District,2000,pop_race_black_pct,45.7%
+BK 05,East New York/Starrett City,Community District,2000,pop_race_hisp_pct,39.1%
+BK 05,East New York/Starrett City,Community District,2000,pop_race_white_pct,6.0%
+BK 06,Park Slope/Carroll Gardens,Community District,2024,pop_race_asian_pct,5.6%
+BK 06,Park Slope/Carroll Gardens,Community District,2024,pop_race_black_pct,10.3%
+BK 06,Park Slope/Carroll Gardens,Community District,2024,pop_race_hisp_pct,14.8%
+BK 06,Park Slope/Carroll Gardens,Community District,2024,pop_race_white_pct,60.1%
+BK 06,Park Slope/Carroll Gardens,Community District,2000,pop_race_asian_pct,4.7%
+BK 06,Park Slope/Carroll Gardens,Community District,2000,pop_race_black_pct,11.2%
+BK 06,Park Slope/Carroll Gardens,Community District,2000,pop_race_hisp_pct,24.2%
+BK 06,Park Slope/Carroll Gardens,Community District,2000,pop_race_white_pct,56.0%
+BK 07,Sunset Park,Community District,2024,pop_race_asian_pct,23.6%
+BK 07,Sunset Park,Community District,2024,pop_race_black_pct,3.3%
+BK 07,Sunset Park,Community District,2024,pop_race_hisp_pct,41.0%
+BK 07,Sunset Park,Community District,2024,pop_race_white_pct,28.0%
+BK 07,Sunset Park,Community District,2000,pop_race_asian_pct,21.8%
+BK 07,Sunset Park,Community District,2000,pop_race_black_pct,3.4%
+BK 07,Sunset Park,Community District,2000,pop_race_hisp_pct,47.9%
+BK 07,Sunset Park,Community District,2000,pop_race_white_pct,23.0%
+BK 08,Crown Heights/Prospect Heights,Community District,2024,pop_race_asian_pct,4.2%
+BK 08,Crown Heights/Prospect Heights,Community District,2024,pop_race_black_pct,49.1%
+BK 08,Crown Heights/Prospect Heights,Community District,2024,pop_race_hisp_pct,12.5%
+BK 08,Crown Heights/Prospect Heights,Community District,2024,pop_race_white_pct,25.3%
+BK 08,Crown Heights/Prospect Heights,Community District,2000,pop_race_asian_pct,1.5%
+BK 08,Crown Heights/Prospect Heights,Community District,2000,pop_race_black_pct,78.1%
+BK 08,Crown Heights/Prospect Heights,Community District,2000,pop_race_hisp_pct,9.8%
+BK 08,Crown Heights/Prospect Heights,Community District,2000,pop_race_white_pct,7.4%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2024,pop_race_asian_pct,4.1%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2024,pop_race_black_pct,53.0%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2024,pop_race_hisp_pct,6.8%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2024,pop_race_white_pct,28.2%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2000,pop_race_asian_pct,0.8%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2000,pop_race_black_pct,79.0%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2000,pop_race_hisp_pct,8.2%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2000,pop_race_white_pct,8.6%
+BK 10,Bay Ridge/Dyker Heights,Community District,2024,pop_race_asian_pct,22.3%
+BK 10,Bay Ridge/Dyker Heights,Community District,2024,pop_race_black_pct,3.1%
+BK 10,Bay Ridge/Dyker Heights,Community District,2024,pop_race_hisp_pct,21.9%
+BK 10,Bay Ridge/Dyker Heights,Community District,2024,pop_race_white_pct,47.9%
+BK 10,Bay Ridge/Dyker Heights,Community District,2000,pop_race_asian_pct,13.6%
+BK 10,Bay Ridge/Dyker Heights,Community District,2000,pop_race_black_pct,1.1%
+BK 10,Bay Ridge/Dyker Heights,Community District,2000,pop_race_hisp_pct,10.8%
+BK 10,Bay Ridge/Dyker Heights,Community District,2000,pop_race_white_pct,69.5%
+BK 11,Bensonhurst,Community District,2024,pop_race_asian_pct,40.5%
+BK 11,Bensonhurst,Community District,2024,pop_race_black_pct,1.9%
+BK 11,Bensonhurst,Community District,2024,pop_race_hisp_pct,22.7%
+BK 11,Bensonhurst,Community District,2024,pop_race_white_pct,33.6%
+BK 11,Bensonhurst,Community District,2000,pop_race_asian_pct,23.1%
+BK 11,Bensonhurst,Community District,2000,pop_race_black_pct,0.4%
+BK 11,Bensonhurst,Community District,2000,pop_race_hisp_pct,8.8%
+BK 11,Bensonhurst,Community District,2000,pop_race_white_pct,64.7%
+BK 12,Borough Park,Community District,2024,pop_race_asian_pct,20.8%
+BK 12,Borough Park,Community District,2024,pop_race_black_pct,2.7%
+BK 12,Borough Park,Community District,2024,pop_race_hisp_pct,12.8%
+BK 12,Borough Park,Community District,2024,pop_race_white_pct,58.7%
+BK 12,Borough Park,Community District,2000,pop_race_asian_pct,11.2%
+BK 12,Borough Park,Community District,2000,pop_race_black_pct,2.8%
+BK 12,Borough Park,Community District,2000,pop_race_hisp_pct,10.7%
+BK 12,Borough Park,Community District,2000,pop_race_white_pct,70.8%
+BK 13,Coney Island,Community District,2024,pop_race_asian_pct,13.3%
+BK 13,Coney Island,Community District,2024,pop_race_black_pct,9.1%
+BK 13,Coney Island,Community District,2024,pop_race_hisp_pct,17.3%
+BK 13,Coney Island,Community District,2024,pop_race_white_pct,54.8%
+BK 13,Coney Island,Community District,2000,pop_race_asian_pct,9.6%
+BK 13,Coney Island,Community District,2000,pop_race_black_pct,14.4%
+BK 13,Coney Island,Community District,2000,pop_race_hisp_pct,15.6%
+BK 13,Coney Island,Community District,2000,pop_race_white_pct,57.1%
+BK 14,Flatbush/Midwood,Community District,2024,pop_race_asian_pct,15.9%
+BK 14,Flatbush/Midwood,Community District,2024,pop_race_black_pct,28.9%
+BK 14,Flatbush/Midwood,Community District,2024,pop_race_hisp_pct,13.0%
+BK 14,Flatbush/Midwood,Community District,2024,pop_race_white_pct,32.4%
+BK 14,Flatbush/Midwood,Community District,2000,pop_race_asian_pct,8.0%
+BK 14,Flatbush/Midwood,Community District,2000,pop_race_black_pct,37.4%
+BK 14,Flatbush/Midwood,Community District,2000,pop_race_hisp_pct,12.9%
+BK 14,Flatbush/Midwood,Community District,2000,pop_race_white_pct,37.6%
+BK 15,Sheepshead Bay,Community District,2024,pop_race_asian_pct,18.8%
+BK 15,Sheepshead Bay,Community District,2024,pop_race_black_pct,4.7%
+BK 15,Sheepshead Bay,Community District,2024,pop_race_hisp_pct,8.9%
+BK 15,Sheepshead Bay,Community District,2024,pop_race_white_pct,61.4%
+BK 15,Sheepshead Bay,Community District,2000,pop_race_asian_pct,12.3%
+BK 15,Sheepshead Bay,Community District,2000,pop_race_black_pct,3.1%
+BK 15,Sheepshead Bay,Community District,2000,pop_race_hisp_pct,6.3%
+BK 15,Sheepshead Bay,Community District,2000,pop_race_white_pct,75.8%
+BK 16,Brownsville,Community District,2024,pop_race_asian_pct,2.7%
+BK 16,Brownsville,Community District,2024,pop_race_black_pct,67.6%
+BK 16,Brownsville,Community District,2024,pop_race_hisp_pct,20.9%
+BK 16,Brownsville,Community District,2024,pop_race_white_pct,4.6%
+BK 16,Brownsville,Community District,2000,pop_race_asian_pct,0.6%
+BK 16,Brownsville,Community District,2000,pop_race_black_pct,75.9%
+BK 16,Brownsville,Community District,2000,pop_race_hisp_pct,20.4%
+BK 16,Brownsville,Community District,2000,pop_race_white_pct,0.7%
+BK 17,East Flatbush,Community District,2024,pop_race_asian_pct,2.8%
+BK 17,East Flatbush,Community District,2024,pop_race_black_pct,76.2%
+BK 17,East Flatbush,Community District,2024,pop_race_hisp_pct,7.7%
+BK 17,East Flatbush,Community District,2024,pop_race_white_pct,4.4%
+BK 17,East Flatbush,Community District,2000,pop_race_asian_pct,1.0%
+BK 17,East Flatbush,Community District,2000,pop_race_black_pct,88.7%
+BK 17,East Flatbush,Community District,2000,pop_race_hisp_pct,5.4%
+BK 17,East Flatbush,Community District,2000,pop_race_white_pct,1.5%
+BK 18,Flatlands/Canarsie,Community District,2024,pop_race_asian_pct,6.7%
+BK 18,Flatlands/Canarsie,Community District,2024,pop_race_black_pct,58.0%
+BK 18,Flatlands/Canarsie,Community District,2024,pop_race_hisp_pct,8.5%
+BK 18,Flatlands/Canarsie,Community District,2024,pop_race_white_pct,18.3%
+BK 18,Flatlands/Canarsie,Community District,2000,pop_race_asian_pct,3.7%
+BK 18,Flatlands/Canarsie,Community District,2000,pop_race_black_pct,51.0%
+BK 18,Flatlands/Canarsie,Community District,2000,pop_race_hisp_pct,8.1%
+BK 18,Flatlands/Canarsie,Community District,2000,pop_race_white_pct,34.4%
+MN 01,Financial District,Community District,2024,pop_race_asian_pct,14.9%
+MN 01,Financial District,Community District,2024,pop_race_black_pct,3.8%
+MN 01,Financial District,Community District,2024,pop_race_hisp_pct,10.4%
+MN 01,Financial District,Community District,2024,pop_race_white_pct,64.0%
+MN 01,Financial District,Community District,2000,pop_race_asian_pct,14.5%
+MN 01,Financial District,Community District,2000,pop_race_black_pct,3.1%
+MN 01,Financial District,Community District,2000,pop_race_hisp_pct,5.9%
+MN 01,Financial District,Community District,2000,pop_race_white_pct,73.6%
+MN 02,Greenwich Village/Soho,Community District,2024,pop_race_asian_pct,14.9%
+MN 02,Greenwich Village/Soho,Community District,2024,pop_race_black_pct,3.8%
+MN 02,Greenwich Village/Soho,Community District,2024,pop_race_hisp_pct,10.4%
+MN 02,Greenwich Village/Soho,Community District,2024,pop_race_white_pct,64.0%
+MN 02,Greenwich Village/Soho,Community District,2000,pop_race_asian_pct,14.5%
+MN 02,Greenwich Village/Soho,Community District,2000,pop_race_black_pct,3.1%
+MN 02,Greenwich Village/Soho,Community District,2000,pop_race_hisp_pct,5.9%
+MN 02,Greenwich Village/Soho,Community District,2000,pop_race_white_pct,73.6%
+MN 03,Lower East Side/Chinatown,Community District,2024,pop_race_asian_pct,27.9%
+MN 03,Lower East Side/Chinatown,Community District,2024,pop_race_black_pct,8.8%
+MN 03,Lower East Side/Chinatown,Community District,2024,pop_race_hisp_pct,23.4%
+MN 03,Lower East Side/Chinatown,Community District,2024,pop_race_white_pct,34.4%
+MN 03,Lower East Side/Chinatown,Community District,2000,pop_race_asian_pct,34.8%
+MN 03,Lower East Side/Chinatown,Community District,2000,pop_race_black_pct,7.5%
+MN 03,Lower East Side/Chinatown,Community District,2000,pop_race_hisp_pct,27.0%
+MN 03,Lower East Side/Chinatown,Community District,2000,pop_race_white_pct,28.1%
+MN 04,Clinton/Chelsea,Community District,2024,pop_race_asian_pct,16.5%
+MN 04,Clinton/Chelsea,Community District,2024,pop_race_black_pct,11.6%
+MN 04,Clinton/Chelsea,Community District,2024,pop_race_hisp_pct,16.1%
+MN 04,Clinton/Chelsea,Community District,2024,pop_race_white_pct,47.0%
+MN 04,Clinton/Chelsea,Community District,2000,pop_race_asian_pct,9.8%
+MN 04,Clinton/Chelsea,Community District,2000,pop_race_black_pct,6.6%
+MN 04,Clinton/Chelsea,Community District,2000,pop_race_hisp_pct,16.8%
+MN 04,Clinton/Chelsea,Community District,2000,pop_race_white_pct,63.5%
+MN 05,Midtown,Community District,2024,pop_race_asian_pct,16.5%
+MN 05,Midtown,Community District,2024,pop_race_black_pct,11.6%
+MN 05,Midtown,Community District,2024,pop_race_hisp_pct,16.1%
+MN 05,Midtown,Community District,2024,pop_race_white_pct,47.0%
+MN 05,Midtown,Community District,2000,pop_race_asian_pct,9.8%
+MN 05,Midtown,Community District,2000,pop_race_black_pct,6.6%
+MN 05,Midtown,Community District,2000,pop_race_hisp_pct,16.8%
+MN 05,Midtown,Community District,2000,pop_race_white_pct,63.5%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2024,pop_race_asian_pct,20.9%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2024,pop_race_black_pct,6.2%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2024,pop_race_hisp_pct,10.1%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2024,pop_race_white_pct,57.2%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2000,pop_race_asian_pct,10.7%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2000,pop_race_black_pct,3.8%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2000,pop_race_hisp_pct,7.0%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2000,pop_race_white_pct,76.2%
+MN 07,Upper West Side,Community District,2024,pop_race_asian_pct,10.9%
+MN 07,Upper West Side,Community District,2024,pop_race_black_pct,7.4%
+MN 07,Upper West Side,Community District,2024,pop_race_hisp_pct,14.5%
+MN 07,Upper West Side,Community District,2024,pop_race_white_pct,60.9%
+MN 07,Upper West Side,Community District,2000,pop_race_asian_pct,5.6%
+MN 07,Upper West Side,Community District,2000,pop_race_black_pct,8.5%
+MN 07,Upper West Side,Community District,2000,pop_race_hisp_pct,14.5%
+MN 07,Upper West Side,Community District,2000,pop_race_white_pct,69.0%
+MN 08,Upper East Side,Community District,2024,pop_race_asian_pct,10.7%
+MN 08,Upper East Side,Community District,2024,pop_race_black_pct,2.1%
+MN 08,Upper East Side,Community District,2024,pop_race_hisp_pct,11.1%
+MN 08,Upper East Side,Community District,2024,pop_race_white_pct,71.1%
+MN 08,Upper East Side,Community District,2000,pop_race_asian_pct,6.3%
+MN 08,Upper East Side,Community District,2000,pop_race_black_pct,3.2%
+MN 08,Upper East Side,Community District,2000,pop_race_hisp_pct,6.0%
+MN 08,Upper East Side,Community District,2000,pop_race_white_pct,82.6%
+MN 09,Morningside Heights/Hamilton,Community District,2024,pop_race_asian_pct,11.8%
+MN 09,Morningside Heights/Hamilton,Community District,2024,pop_race_black_pct,24.9%
+MN 09,Morningside Heights/Hamilton,Community District,2024,pop_race_hisp_pct,34.0%
+MN 09,Morningside Heights/Hamilton,Community District,2024,pop_race_white_pct,24.9%
+MN 09,Morningside Heights/Hamilton,Community District,2000,pop_race_asian_pct,5.2%
+MN 09,Morningside Heights/Hamilton,Community District,2000,pop_race_black_pct,29.1%
+MN 09,Morningside Heights/Hamilton,Community District,2000,pop_race_hisp_pct,42.7%
+MN 09,Morningside Heights/Hamilton,Community District,2000,pop_race_white_pct,20.3%
+MN 10,Central Harlem,Community District,2024,pop_race_asian_pct,2.6%
+MN 10,Central Harlem,Community District,2024,pop_race_black_pct,43.2%
+MN 10,Central Harlem,Community District,2024,pop_race_hisp_pct,31.1%
+MN 10,Central Harlem,Community District,2024,pop_race_white_pct,17.1%
+MN 10,Central Harlem,Community District,2000,pop_race_asian_pct,0.8%
+MN 10,Central Harlem,Community District,2000,pop_race_black_pct,77.3%
+MN 10,Central Harlem,Community District,2000,pop_race_hisp_pct,16.8%
+MN 10,Central Harlem,Community District,2000,pop_race_white_pct,2.1%
+MN 11,East Harlem,Community District,2024,pop_race_asian_pct,7.5%
+MN 11,East Harlem,Community District,2024,pop_race_black_pct,30.1%
+MN 11,East Harlem,Community District,2024,pop_race_hisp_pct,44.8%
+MN 11,East Harlem,Community District,2024,pop_race_white_pct,14.5%
+MN 11,East Harlem,Community District,2000,pop_race_asian_pct,2.7%
+MN 11,East Harlem,Community District,2000,pop_race_black_pct,34.9%
+MN 11,East Harlem,Community District,2000,pop_race_hisp_pct,52.8%
+MN 11,East Harlem,Community District,2000,pop_race_white_pct,7.3%
+MN 12,Washington Heights/Inwood,Community District,2024,pop_race_asian_pct,3.3%
+MN 12,Washington Heights/Inwood,Community District,2024,pop_race_black_pct,8.7%
+MN 12,Washington Heights/Inwood,Community District,2024,pop_race_hisp_pct,62.6%
+MN 12,Washington Heights/Inwood,Community District,2024,pop_race_white_pct,22.2%
+MN 12,Washington Heights/Inwood,Community District,2000,pop_race_asian_pct,2.0%
+MN 12,Washington Heights/Inwood,Community District,2000,pop_race_black_pct,8.4%
+MN 12,Washington Heights/Inwood,Community District,2000,pop_race_hisp_pct,74.1%
+MN 12,Washington Heights/Inwood,Community District,2000,pop_race_white_pct,13.6%
+QN 01,Astoria,Community District,2024,pop_race_asian_pct,14.6%
+QN 01,Astoria,Community District,2024,pop_race_black_pct,4.1%
+QN 01,Astoria,Community District,2024,pop_race_hisp_pct,28.3%
+QN 01,Astoria,Community District,2024,pop_race_white_pct,47.3%
+QN 01,Astoria,Community District,2000,pop_race_asian_pct,12.5%
+QN 01,Astoria,Community District,2000,pop_race_black_pct,10.4%
+QN 01,Astoria,Community District,2000,pop_race_hisp_pct,27.5%
+QN 01,Astoria,Community District,2000,pop_race_white_pct,41.9%
+QN 02,Woodside/Sunnyside,Community District,2024,pop_race_asian_pct,33.3%
+QN 02,Woodside/Sunnyside,Community District,2024,pop_race_black_pct,1.8%
+QN 02,Woodside/Sunnyside,Community District,2024,pop_race_hisp_pct,26.0%
+QN 02,Woodside/Sunnyside,Community District,2024,pop_race_white_pct,34.7%
+QN 02,Woodside/Sunnyside,Community District,2000,pop_race_asian_pct,29.9%
+QN 02,Woodside/Sunnyside,Community District,2000,pop_race_black_pct,1.9%
+QN 02,Woodside/Sunnyside,Community District,2000,pop_race_hisp_pct,34.5%
+QN 02,Woodside/Sunnyside,Community District,2000,pop_race_white_pct,29.5%
+QN 03,Jackson Heights,Community District,2024,pop_race_asian_pct,16.6%
+QN 03,Jackson Heights,Community District,2024,pop_race_black_pct,8.5%
+QN 03,Jackson Heights,Community District,2024,pop_race_hisp_pct,63.3%
+QN 03,Jackson Heights,Community District,2024,pop_race_white_pct,9.0%
+QN 03,Jackson Heights,Community District,2000,pop_race_asian_pct,13.6%
+QN 03,Jackson Heights,Community District,2000,pop_race_black_pct,9.7%
+QN 03,Jackson Heights,Community District,2000,pop_race_hisp_pct,59.0%
+QN 03,Jackson Heights,Community District,2000,pop_race_white_pct,14.2%
+QN 04,Elmhurst/Corona,Community District,2024,pop_race_asian_pct,34.6%
+QN 04,Elmhurst/Corona,Community District,2024,pop_race_black_pct,5.2%
+QN 04,Elmhurst/Corona,Community District,2024,pop_race_hisp_pct,50.9%
+QN 04,Elmhurst/Corona,Community District,2024,pop_race_white_pct,7.4%
+QN 04,Elmhurst/Corona,Community District,2000,pop_race_asian_pct,28.2%
+QN 04,Elmhurst/Corona,Community District,2000,pop_race_black_pct,8.2%
+QN 04,Elmhurst/Corona,Community District,2000,pop_race_hisp_pct,49.2%
+QN 04,Elmhurst/Corona,Community District,2000,pop_race_white_pct,11.1%
+QN 05,Ridgewood/Maspeth,Community District,2024,pop_race_asian_pct,11.7%
+QN 05,Ridgewood/Maspeth,Community District,2024,pop_race_black_pct,2.7%
+QN 05,Ridgewood/Maspeth,Community District,2024,pop_race_hisp_pct,36.8%
+QN 05,Ridgewood/Maspeth,Community District,2024,pop_race_white_pct,45.7%
+QN 05,Ridgewood/Maspeth,Community District,2000,pop_race_asian_pct,6.3%
+QN 05,Ridgewood/Maspeth,Community District,2000,pop_race_black_pct,1.0%
+QN 05,Ridgewood/Maspeth,Community District,2000,pop_race_hisp_pct,28.1%
+QN 05,Ridgewood/Maspeth,Community District,2000,pop_race_white_pct,62.2%
+QN 06,Rego Park/Forest Hills,Community District,2024,pop_race_asian_pct,35.1%
+QN 06,Rego Park/Forest Hills,Community District,2024,pop_race_black_pct,3.9%
+QN 06,Rego Park/Forest Hills,Community District,2024,pop_race_hisp_pct,18.6%
+QN 06,Rego Park/Forest Hills,Community District,2024,pop_race_white_pct,36.2%
+QN 06,Rego Park/Forest Hills,Community District,2000,pop_race_asian_pct,21.4%
+QN 06,Rego Park/Forest Hills,Community District,2000,pop_race_black_pct,2.2%
+QN 06,Rego Park/Forest Hills,Community District,2000,pop_race_hisp_pct,11.3%
+QN 06,Rego Park/Forest Hills,Community District,2000,pop_race_white_pct,61.7%
+QN 07,Flushing/Whitestone,Community District,2024,pop_race_asian_pct,55.2%
+QN 07,Flushing/Whitestone,Community District,2024,pop_race_black_pct,2.8%
+QN 07,Flushing/Whitestone,Community District,2024,pop_race_hisp_pct,19.1%
+QN 07,Flushing/Whitestone,Community District,2024,pop_race_white_pct,20.0%
+QN 07,Flushing/Whitestone,Community District,2000,pop_race_asian_pct,36.1%
+QN 07,Flushing/Whitestone,Community District,2000,pop_race_black_pct,2.8%
+QN 07,Flushing/Whitestone,Community District,2000,pop_race_hisp_pct,16.8%
+QN 07,Flushing/Whitestone,Community District,2000,pop_race_white_pct,41.2%
+QN 08,Hillcrest/Fresh Meadows,Community District,2024,pop_race_asian_pct,34.8%
+QN 08,Hillcrest/Fresh Meadows,Community District,2024,pop_race_black_pct,9.9%
+QN 08,Hillcrest/Fresh Meadows,Community District,2024,pop_race_hisp_pct,20.2%
+QN 08,Hillcrest/Fresh Meadows,Community District,2024,pop_race_white_pct,25.7%
+QN 08,Hillcrest/Fresh Meadows,Community District,2000,pop_race_asian_pct,23.7%
+QN 08,Hillcrest/Fresh Meadows,Community District,2000,pop_race_black_pct,14.5%
+QN 08,Hillcrest/Fresh Meadows,Community District,2000,pop_race_hisp_pct,16.3%
+QN 08,Hillcrest/Fresh Meadows,Community District,2000,pop_race_white_pct,39.0%
+QN 09,Kew Gardens/Woodhaven,Community District,2024,pop_race_asian_pct,26.8%
+QN 09,Kew Gardens/Woodhaven,Community District,2024,pop_race_black_pct,6.0%
+QN 09,Kew Gardens/Woodhaven,Community District,2024,pop_race_hisp_pct,41.0%
+QN 09,Kew Gardens/Woodhaven,Community District,2024,pop_race_white_pct,15.4%
+QN 09,Kew Gardens/Woodhaven,Community District,2000,pop_race_asian_pct,16.1%
+QN 09,Kew Gardens/Woodhaven,Community District,2000,pop_race_black_pct,6.9%
+QN 09,Kew Gardens/Woodhaven,Community District,2000,pop_race_hisp_pct,35.6%
+QN 09,Kew Gardens/Woodhaven,Community District,2000,pop_race_white_pct,28.9%
+QN 10,South Ozone Park/Howard Beach,Community District,2024,pop_race_asian_pct,16.1%
+QN 10,South Ozone Park/Howard Beach,Community District,2024,pop_race_black_pct,15.7%
+QN 10,South Ozone Park/Howard Beach,Community District,2024,pop_race_hisp_pct,30.5%
+QN 10,South Ozone Park/Howard Beach,Community District,2024,pop_race_white_pct,18.3%
+QN 10,South Ozone Park/Howard Beach,Community District,2000,pop_race_asian_pct,12.8%
+QN 10,South Ozone Park/Howard Beach,Community District,2000,pop_race_black_pct,16.6%
+QN 10,South Ozone Park/Howard Beach,Community District,2000,pop_race_hisp_pct,20.7%
+QN 10,South Ozone Park/Howard Beach,Community District,2000,pop_race_white_pct,33.7%
+QN 11,Bayside/Little Neck,Community District,2024,pop_race_asian_pct,51.3%
+QN 11,Bayside/Little Neck,Community District,2024,pop_race_black_pct,4.5%
+QN 11,Bayside/Little Neck,Community District,2024,pop_race_hisp_pct,11.5%
+QN 11,Bayside/Little Neck,Community District,2024,pop_race_white_pct,29.9%
+QN 11,Bayside/Little Neck,Community District,2000,pop_race_asian_pct,26.4%
+QN 11,Bayside/Little Neck,Community District,2000,pop_race_black_pct,2.0%
+QN 11,Bayside/Little Neck,Community District,2000,pop_race_hisp_pct,8.9%
+QN 11,Bayside/Little Neck,Community District,2000,pop_race_white_pct,60.3%
+QN 12,Jamaica/Hollis,Community District,2024,pop_race_asian_pct,17.3%
+QN 12,Jamaica/Hollis,Community District,2024,pop_race_black_pct,51.3%
+QN 12,Jamaica/Hollis,Community District,2024,pop_race_hisp_pct,20.0%
+QN 12,Jamaica/Hollis,Community District,2024,pop_race_white_pct,1.7%
+QN 12,Jamaica/Hollis,Community District,2000,pop_race_asian_pct,4.7%
+QN 12,Jamaica/Hollis,Community District,2000,pop_race_black_pct,72.7%
+QN 12,Jamaica/Hollis,Community District,2000,pop_race_hisp_pct,13.6%
+QN 12,Jamaica/Hollis,Community District,2000,pop_race_white_pct,2.1%
+QN 13,Queens Village,Community District,2024,pop_race_asian_pct,18.1%
+QN 13,Queens Village,Community District,2024,pop_race_black_pct,51.4%
+QN 13,Queens Village,Community District,2024,pop_race_hisp_pct,14.4%
+QN 13,Queens Village,Community District,2024,pop_race_white_pct,8.1%
+QN 13,Queens Village,Community District,2000,pop_race_asian_pct,10.0%
+QN 13,Queens Village,Community District,2000,pop_race_black_pct,55.7%
+QN 13,Queens Village,Community District,2000,pop_race_hisp_pct,10.3%
+QN 13,Queens Village,Community District,2000,pop_race_white_pct,18.4%
+QN 14,Rockaway/Broad Channel,Community District,2024,pop_race_asian_pct,2.6%
+QN 14,Rockaway/Broad Channel,Community District,2024,pop_race_black_pct,33.8%
+QN 14,Rockaway/Broad Channel,Community District,2024,pop_race_hisp_pct,22.8%
+QN 14,Rockaway/Broad Channel,Community District,2024,pop_race_white_pct,35.1%
+QN 14,Rockaway/Broad Channel,Community District,2000,pop_race_asian_pct,1.6%
+QN 14,Rockaway/Broad Channel,Community District,2000,pop_race_black_pct,40.0%
+QN 14,Rockaway/Broad Channel,Community District,2000,pop_race_hisp_pct,17.7%
+QN 14,Rockaway/Broad Channel,Community District,2000,pop_race_white_pct,37.3%
+SI 01,St. George/Stapleton,Community District,2024,pop_race_asian_pct,11.3%
+SI 01,St. George/Stapleton,Community District,2024,pop_race_black_pct,17.7%
+SI 01,St. George/Stapleton,Community District,2024,pop_race_hisp_pct,33.0%
+SI 01,St. George/Stapleton,Community District,2024,pop_race_white_pct,32.9%
+SI 01,St. George/Stapleton,Community District,2000,pop_race_asian_pct,5.2%
+SI 01,St. George/Stapleton,Community District,2000,pop_race_black_pct,21.6%
+SI 01,St. George/Stapleton,Community District,2000,pop_race_hisp_pct,19.8%
+SI 01,St. George/Stapleton,Community District,2000,pop_race_white_pct,50.0%
+SI 02,South Beach/Willowbrook,Community District,2024,pop_race_asian_pct,21.9%
+SI 02,South Beach/Willowbrook,Community District,2024,pop_race_black_pct,3.5%
+SI 02,South Beach/Willowbrook,Community District,2024,pop_race_hisp_pct,11.6%
+SI 02,South Beach/Willowbrook,Community District,2024,pop_race_white_pct,56.8%
+SI 02,South Beach/Willowbrook,Community District,2000,pop_race_asian_pct,8.8%
+SI 02,South Beach/Willowbrook,Community District,2000,pop_race_black_pct,2.5%
+SI 02,South Beach/Willowbrook,Community District,2000,pop_race_hisp_pct,9.7%
+SI 02,South Beach/Willowbrook,Community District,2000,pop_race_white_pct,77.1%
+SI 03,Tottenville/Great Kills,Community District,2024,pop_race_asian_pct,11.2%
+SI 03,Tottenville/Great Kills,Community District,2024,pop_race_black_pct,1.1%
+SI 03,Tottenville/Great Kills,Community District,2024,pop_race_hisp_pct,11.8%
+SI 03,Tottenville/Great Kills,Community District,2024,pop_race_white_pct,74.3%
+SI 03,Tottenville/Great Kills,Community District,2000,pop_race_asian_pct,3.3%
+SI 03,Tottenville/Great Kills,Community District,2000,pop_race_black_pct,0.9%
+SI 03,Tottenville/Great Kills,Community District,2000,pop_race_hisp_pct,5.9%
+SI 03,Tottenville/Great Kills,Community District,2000,pop_race_white_pct,89.1%
